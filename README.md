@@ -1,5 +1,4 @@
 # physics
-======================
 
 This is my personal library of constants and useful functions. It will be upgraded as the time flows and I need something new. 
 
